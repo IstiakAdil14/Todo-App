@@ -1,0 +1,11 @@
+.buttonStyle{
+    background-color: aliceblue;
+    font-weight: bolder;
+    font-size: 18px;
+    color: black;
+}
+
+.productTitle{
+    font-size: 20px;
+    color: rgb(222, 237, 10);
+}
